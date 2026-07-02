@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StaticAppDemo/1.0.0": {
+        "runtime": {
+          "StaticAppDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StaticAppDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
