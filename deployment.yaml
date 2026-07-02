@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: staticappdemo
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: staticappdemo
+  template:
+    metadata:
+      labels:
+        app: staticappdemo
+    spec:
+      containers:
+      - name: staticappdemo
+        image: ghcr.io/kajim291088/staticappdemo:latest
+        ports:
+        - containerPort: 8080
+        imagePullPolicy: Always
+      imagePullSecrets:
+      - name: ghcr-secret
