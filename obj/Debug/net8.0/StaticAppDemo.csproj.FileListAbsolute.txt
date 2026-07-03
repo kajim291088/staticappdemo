@@ -27,3 +27,4 @@ C:\Users\kazim\StaticAppDemo\obj\Debug\net8.0\refint\StaticAppDemo.dll
 C:\Users\kazim\StaticAppDemo\obj\Debug\net8.0\StaticAppDemo.pdb
 C:\Users\kazim\StaticAppDemo\obj\Debug\net8.0\StaticAppDemo.genruntimeconfig.cache
 C:\Users\kazim\StaticAppDemo\obj\Debug\net8.0\ref\StaticAppDemo.dll
+C:\Users\kazim\StaticAppDemo\obj\Debug\net8.0\StaticAppDemo.sourcelink.json
